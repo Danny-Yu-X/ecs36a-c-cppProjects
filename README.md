@@ -1,1 +1,1 @@
-# ecs36a-c-cppProjects
+# ecs36a-cProjects
