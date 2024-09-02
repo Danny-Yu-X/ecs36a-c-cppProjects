@@ -1,0 +1,51 @@
+#include <stdio.h>
+printf("hi");
+int numArgRead =scanf("%d , %d", &num1, &num2);
+
+//check for format before checking the value
+
+//Switch statement
+/*
+only for int or char
+good for equality comparisons*/
+
+//Ternary Operator
+a = cond ? b:c
+
+//distribute negation, also flip the and/or
+
+
+while (condition){
+
+}
+
+do{
+
+}while(condition);
+
+for(init; condition; update){
+    
+}
+
+break = end
+continue = start again with next iteration
+
+use bool to get out of many loops
+
+goto name
+name:
+
+
+%*d, num, args 
+
+Arrays
+int age[10]={1,2,3};
+
+array[index];
+
+C string
+array of characters that ends with null characters
+%s, no & when scanf
+string.h
+
+char s1[]="cat";
